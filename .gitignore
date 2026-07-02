@@ -51,9 +51,5 @@ node_modules/
 # Max backup files
 *.bak
 
-# Large binary / log files in archive
-*.reapeaks
-archive/**/logs/
-archive/**/stems/
-archive/
+# Archive — kept locally only
 archive/
