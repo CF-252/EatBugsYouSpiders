@@ -1,0 +1,52 @@
+# Audio files — large, not source code
+*.wav
+*.mp3
+*.mp4
+*.m4a
+*.aif
+*.aiff
+*.flac
+*.ogg
+*.aac
+
+# Runtime data (stems, uploads, logs, temp) — created by setup.sh
+data/
+
+# Python environments — large, created by setup.sh
+src/demucs/demucs_env/
+**/venv/
+**/.venv/
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+
+# Essentia models — large binary, downloaded by setup.sh
+src/demucs/essentia_models/
+
+# Generated analysis files — rebuilt by FluCoMa, not source code
+src/max/analysis_library.json
+src/max/ebys_index.json
+src/max/umap_coords.json
+src/max/stem_ranges.json
+src/max/dict_analysis.json
+src/max/ebys_feed_vocals.json
+
+# SQLite database — runtime, lives in data/
+*.db
+*.sqlite
+*.sqlite3
+
+# Node modules
+node_modules/
+
+# Environment variables — never commit
+.env
+.env.*
+!.env.example
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Max backup files
+*.bak

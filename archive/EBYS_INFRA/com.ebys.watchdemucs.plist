@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.ebys.watchdemucs</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/Users/alexandregagne/Documents/EBYS/EBYS_INFRA/demucs_env/bin/python3</string>
+        <string>/Users/alexandregagne/Documents/EBYS/EBYS_INFRA/watch_demucs.py</string>
+    </array>
+
+    <key>RunAtLoad</key>
+    <true/>
+
+    <key>KeepAlive</key>
+    <true/>
+
+    <key>StandardOutPath</key>
+    <string>/Users/alexandregagne/Documents/EBYS/EBYS_INFRA/logs/watchdemucs.log</string>
+
+    <key>StandardErrorPath</key>
+    <string>/Users/alexandregagne/Documents/EBYS/EBYS_INFRA/logs/watchdemucs.log</string>
+
+    <key>WorkingDirectory</key>
+    <string>/Users/alexandregagne/Documents/EBYS/EBYS_INFRA</string>
+</dict>
+</plist>

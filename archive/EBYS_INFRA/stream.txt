@@ -1,0 +1,8 @@
+vocals /Users/alexandregagne/Documents/EBYS/EBYS_INFRA/stems/htdemucs/439iSMT © eFSn r[£ iBuy rym2. jbknl!-005/439iSMT © eFSn r[£ iBuy rym2. jbknl!-005_vocals.wav
+drums /Users/alexandregagne/Documents/EBYS/EBYS_INFRA/stems/htdemucs/439iSMT © eFSn r[£ iBuy rym2. jbknl!-005/439iSMT © eFSn r[£ iBuy rym2. jbknl!-005_drums.wav
+bass /Users/alexandregagne/Documents/EBYS/EBYS_INFRA/stems/htdemucs/439iSMT © eFSn r[£ iBuy rym2. jbknl!-005/439iSMT © eFSn r[£ iBuy rym2. jbknl!-005_bass.wav
+melody /Users/alexandregagne/Documents/EBYS/EBYS_INFRA/stems/htdemucs/439iSMT © eFSn r[£ iBuy rym2. jbknl!-005/439iSMT © eFSn r[£ iBuy rym2. jbknl!-005_other.wav
+vocals /Users/alexandregagne/Documents/EBYS/EBYS_INFRA/stems/htdemucs/DREPTO CE3o/DREPTO CE3o_vocals.wav
+drums /Users/alexandregagne/Documents/EBYS/EBYS_INFRA/stems/htdemucs/DREPTO CE3o/DREPTO CE3o_drums.wav
+bass /Users/alexandregagne/Documents/EBYS/EBYS_INFRA/stems/htdemucs/DREPTO CE3o/DREPTO CE3o_bass.wav
+melody /Users/alexandregagne/Documents/EBYS/EBYS_INFRA/stems/htdemucs/DREPTO CE3o/DREPTO CE3o_other.wav

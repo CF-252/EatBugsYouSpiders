@@ -1,0 +1,1 @@
+post("JS OBJECT WORKS\n");

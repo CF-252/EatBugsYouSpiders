@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>EBYS Tip</title>
+  <script src="https://js.stripe.com/v3/"></script>
+</head>
+<body>
+  <h2>Tip the DJ</h2>
+
+  <select id="amount">
+    <option value="200">$2</option>
+    <option value="500">$5</option>
+    <option value="1000">$10</option>
+  </select>
+
+  <button onclick="tip()">Tip</button>
+
+  <div id="status"></div>
+
+  <script>
+    const stripe = Stripe('pk_test_51ToCWNDvb63j4x6ODcTRNKuxFZGM70R10swnVX6Xtj0qJSwnN0BY6rLqOqgl3SYC7C6WcjNgbNXxkUElxPoX02TL006YrCt7V6')
+    const SESSION_ID = 1  // hardcoded for test
+
+    async function tip() {
+      const amountCents = parseInt(document.getElementById('amount').value)
+      document.getElementById('status').innerText = 'Creating payment...'
+
+      // Step 1 — create payment intent on backend
+      const res = await fetch('https://eatbugsyouspider.com/tips/create', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ amountCents, sessionId: SESSION_ID, mode: 'web' })
+      })
+      const { clientSecret } = await res.json()
+
+      // Step 2 — confirm payment with Stripe
+      const { error } = await stripe.confirmPayment({
+        clientSecret,
+        confirmParams: {
+          return_url: 'https://eatbugsyouspider.com'
+        }
+      })
+
+      if (error) {
+        document.getElementById('status').innerText = error.message
+      }
+    }
+  </script>
+</body>
+</html>

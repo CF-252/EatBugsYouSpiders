@@ -1,0 +1,232 @@
+{
+  "DREPTO CE3o": {
+    "mix": "DREPTO CE3o.wav",
+    "genres": [
+      {
+        "genre": "Electronic---Techno",
+        "confidence": 0.2287
+      },
+      {
+        "genre": "Electronic---House",
+        "confidence": 0.1973
+      },
+      {
+        "genre": "Electronic---Experimental",
+        "confidence": 0.1042
+      },
+      {
+        "genre": "Electronic---Electro",
+        "confidence": 0.0937
+      },
+      {
+        "genre": "Electronic---Deep House",
+        "confidence": 0.0714
+      }
+    ],
+    "stems": {
+      "DREPTO CE3o_drums": [
+        {
+          "genre": "Electronic---Techno",
+          "confidence": 0.2287
+        },
+        {
+          "genre": "Electronic---House",
+          "confidence": 0.1973
+        },
+        {
+          "genre": "Electronic---Experimental",
+          "confidence": 0.1042
+        },
+        {
+          "genre": "Electronic---Electro",
+          "confidence": 0.0937
+        },
+        {
+          "genre": "Electronic---Deep House",
+          "confidence": 0.0714
+        }
+      ],
+      "DREPTO CE3o_bass": [
+        {
+          "genre": "Electronic---Techno",
+          "confidence": 0.2287
+        },
+        {
+          "genre": "Electronic---House",
+          "confidence": 0.1973
+        },
+        {
+          "genre": "Electronic---Experimental",
+          "confidence": 0.1042
+        },
+        {
+          "genre": "Electronic---Electro",
+          "confidence": 0.0937
+        },
+        {
+          "genre": "Electronic---Deep House",
+          "confidence": 0.0714
+        }
+      ],
+      "DREPTO CE3o_other": [
+        {
+          "genre": "Electronic---Techno",
+          "confidence": 0.2287
+        },
+        {
+          "genre": "Electronic---House",
+          "confidence": 0.1973
+        },
+        {
+          "genre": "Electronic---Experimental",
+          "confidence": 0.1042
+        },
+        {
+          "genre": "Electronic---Electro",
+          "confidence": 0.0937
+        },
+        {
+          "genre": "Electronic---Deep House",
+          "confidence": 0.0714
+        }
+      ],
+      "DREPTO CE3o_vocals": [
+        {
+          "genre": "Electronic---Techno",
+          "confidence": 0.2287
+        },
+        {
+          "genre": "Electronic---House",
+          "confidence": 0.1973
+        },
+        {
+          "genre": "Electronic---Experimental",
+          "confidence": 0.1042
+        },
+        {
+          "genre": "Electronic---Electro",
+          "confidence": 0.0937
+        },
+        {
+          "genre": "Electronic---Deep House",
+          "confidence": 0.0714
+        }
+      ]
+    }
+  },
+  "439iSMT © eFSn r[£ iBuy rym2. jbknl!-005": {
+    "mix": "439iSMT © eFSn r[£ iBuy rym2. jbknl!-005.wav",
+    "genres": [
+      {
+        "genre": "Electronic---Techno",
+        "confidence": 0.2538
+      },
+      {
+        "genre": "Electronic---House",
+        "confidence": 0.1969
+      },
+      {
+        "genre": "Electronic---Dub Techno",
+        "confidence": 0.1198
+      },
+      {
+        "genre": "Electronic---Experimental",
+        "confidence": 0.1194
+      },
+      {
+        "genre": "Electronic---Deep House",
+        "confidence": 0.1125
+      }
+    ],
+    "stems": {
+      "439iSMT © eFSn r[£ iBuy rym2. jbknl!-005_vocals": [
+        {
+          "genre": "Electronic---Techno",
+          "confidence": 0.2538
+        },
+        {
+          "genre": "Electronic---House",
+          "confidence": 0.1969
+        },
+        {
+          "genre": "Electronic---Dub Techno",
+          "confidence": 0.1198
+        },
+        {
+          "genre": "Electronic---Experimental",
+          "confidence": 0.1194
+        },
+        {
+          "genre": "Electronic---Deep House",
+          "confidence": 0.1125
+        }
+      ],
+      "439iSMT © eFSn r[£ iBuy rym2. jbknl!-005_drums": [
+        {
+          "genre": "Electronic---Techno",
+          "confidence": 0.2538
+        },
+        {
+          "genre": "Electronic---House",
+          "confidence": 0.1969
+        },
+        {
+          "genre": "Electronic---Dub Techno",
+          "confidence": 0.1198
+        },
+        {
+          "genre": "Electronic---Experimental",
+          "confidence": 0.1194
+        },
+        {
+          "genre": "Electronic---Deep House",
+          "confidence": 0.1125
+        }
+      ],
+      "439iSMT © eFSn r[£ iBuy rym2. jbknl!-005_bass": [
+        {
+          "genre": "Electronic---Techno",
+          "confidence": 0.2538
+        },
+        {
+          "genre": "Electronic---House",
+          "confidence": 0.1969
+        },
+        {
+          "genre": "Electronic---Dub Techno",
+          "confidence": 0.1198
+        },
+        {
+          "genre": "Electronic---Experimental",
+          "confidence": 0.1194
+        },
+        {
+          "genre": "Electronic---Deep House",
+          "confidence": 0.1125
+        }
+      ],
+      "439iSMT © eFSn r[£ iBuy rym2. jbknl!-005_other": [
+        {
+          "genre": "Electronic---Techno",
+          "confidence": 0.2538
+        },
+        {
+          "genre": "Electronic---House",
+          "confidence": 0.1969
+        },
+        {
+          "genre": "Electronic---Dub Techno",
+          "confidence": 0.1198
+        },
+        {
+          "genre": "Electronic---Experimental",
+          "confidence": 0.1194
+        },
+        {
+          "genre": "Electronic---Deep House",
+          "confidence": 0.1125
+        }
+      ]
+    }
+  }
+}
